@@ -1,1 +1,1 @@
-# ETL_Python_data_to_postgresdata
+# ETL tool in Python upload the data to PostgresSQL
